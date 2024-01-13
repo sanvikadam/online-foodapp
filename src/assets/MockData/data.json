@@ -1,0 +1,1618 @@
+{
+    "restaurants": [
+        {
+            "info": {
+                "id": "70697",
+                "name": "Theobroma",
+                "cloudinaryImageId": "b033728dcb0101ceb19bff0e1e1f6474",
+                "locality": "Borivali West",
+                "areaName": "Borivali West",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts"
+                ],
+                "avgRating": 4.5,
+                "parentId": "1040",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 1.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "1.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "233325",
+                "name": "Burger King",
+                "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                "locality": "Nirman Heights, Borivali",
+                "areaName": "Borivali West",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Burgers",
+                    "American"
+                ],
+                "avgRating": 4.3,
+                "parentId": "166",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 1.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 06:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "9867",
+                "name": "Pizza Hut",
+                "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                "locality": "Kandivali West",
+                "areaName": "Kandivali West",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Pizzas"
+                ],
+                "avgRating": 3.9,
+                "parentId": "721",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 39,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 05:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "145513",
+                "name": "Starbucks Coffee",
+                "cloudinaryImageId": "258fe8a3577877fbfe064095ed1d9dc3",
+                "locality": "Link Road",
+                "areaName": "Borivali West",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Cafe",
+                    "Snacks",
+                    "Desserts",
+                    "Bakery",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.3,
+                "parentId": "195515",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 2.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "23665",
+                "name": "McDonald's",
+                "cloudinaryImageId": "405645b3118d83e89db4c65361e43733",
+                "locality": "Borivali West",
+                "areaName": "Borivali West",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Burgers",
+                    "Beverages",
+                    "Cafe",
+                    "Desserts"
+                ],
+                "avgRating": 4.4,
+                "parentId": "630",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 1.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "1.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 03:45:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "386214",
+                "name": "Purshottam Kandoi Haribhai Damodar Mithaiwala",
+                "cloudinaryImageId": "wm0hxww7t1duwfbwuwcj",
+                "locality": "Opp Kora Kendra",
+                "areaName": "Borivali",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Sweets",
+                    "Snacks",
+                    "Street Food"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "22434",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 1.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 20:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "422410",
+                "name": "Chaayos Chai+Snacks=Relax",
+                "cloudinaryImageId": "cace805a6ba74137571d0f7ac92302b1",
+                "locality": "Samta Nagar",
+                "areaName": "kandivali east",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Beverages",
+                    "Chaat",
+                    "Desserts",
+                    "Home Food",
+                    "Italian",
+                    "Maharashtrian",
+                    "Snacks",
+                    "Street Food",
+                    "Sweets"
+                ],
+                "avgRating": 4.5,
+                "parentId": "281782",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "5.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "47646",
+                "name": "Cheelizza - India ka Pizza",
+                "cloudinaryImageId": "f58a1b772e5eeea45ff8ead3890703ed",
+                "locality": "Mahavir Nagar",
+                "areaName": "Kandivali West",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Pizzas",
+                    "Italian",
+                    "Fast Food"
+                ],
+                "avgRating": 4.2,
+                "veg": true,
+                "parentId": "375077",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "35-40 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 03:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "258305",
+                "name": "Poetry By Love & Cheesecake",
+                "cloudinaryImageId": "1ee8f8be19c743618e6df6f37970ea92",
+                "locality": "Kandivali West",
+                "areaName": "Kandivali West",
+                "costForTwo": "₹900 for two",
+                "cuisines": [
+                    "Desserts"
+                ],
+                "avgRating": 4.3,
+                "parentId": "11330",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 32,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 00:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "41582",
+                "name": "Hangout Cakes & More",
+                "cloudinaryImageId": "079d1a1551619115a435f9b557222464",
+                "locality": "Opposite Kora Kendra, Borivali West",
+                "areaName": "Borivali West",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Bakery"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "4508",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 16,
+                    "lastMileTravel": 1.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "1.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "328481",
+                "name": "McDonald's Gourmet Burger Collection",
+                "cloudinaryImageId": "nplaundfbbvxiyvidoku",
+                "locality": "Agora Business Plaza",
+                "areaName": "Borivali",
+                "costForTwo": "₹600 for two",
+                "cuisines": [
+                    "Burgers",
+                    "Beverages",
+                    "Cafe",
+                    "Desserts"
+                ],
+                "avgRating": 4.3,
+                "parentId": "10761",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 20,
+                    "lastMileTravel": 1.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 03:45:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "332609",
+                "name": "Charcoal Eats - Biryani & Beyond",
+                "cloudinaryImageId": "d796c32a336dcce6814de6921d916966",
+                "locality": "NEW LINK ROAD",
+                "areaName": "Borivali West",
+                "costForTwo": "₹499 for two",
+                "cuisines": [
+                    "Biryani",
+                    "Kebabs",
+                    "Hyderabadi",
+                    "North Indian"
+                ],
+                "avgRating": 4.3,
+                "parentId": "5338",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 2.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "2.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "66916",
+                "name": "Nothing But Chicken",
+                "cloudinaryImageId": "v4udze8bve32htauz4cq",
+                "locality": "Ic Colony",
+                "areaName": "Borivali West",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Salads",
+                    "Biryani",
+                    "Kebabs",
+                    "Fast Food",
+                    "Healthy Food"
+                ],
+                "avgRating": 4.6,
+                "parentId": "668",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 2.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "2.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 04:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "10449",
+                "name": "5 Spice",
+                "cloudinaryImageId": "l7bf0yma1ew4gjhlil3h",
+                "locality": "Chandavarkar Road",
+                "areaName": "Borivali West",
+                "costForTwo": "₹750 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Asian",
+                    "Thai",
+                    "Seafood"
+                ],
+                "avgRating": 4.2,
+                "parentId": "15",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 1.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 02:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "12352",
+                "name": "Jumboking Indian Burger",
+                "cloudinaryImageId": "ff0747ae3755d4ed49a4d7c0c2d8a2d4",
+                "locality": "Chandrawarkar Road",
+                "areaName": "Borivali West",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "American",
+                    "Mexican",
+                    "Fast Food",
+                    "Snacks",
+                    "Beverages"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "515",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 14,
+                    "lastMileTravel": 0.3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-15 mins",
+                    "lastMileTravelString": "0.3 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:45:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "37098",
+                "name": "Surbhi Sweets And Snacks",
+                "cloudinaryImageId": "069fd9449ba5ee0d560d87ce3c6608d6",
+                "locality": "Borivali East",
+                "areaName": "Dahisar East",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Sweets",
+                    "Chaat",
+                    "Snacks",
+                    "Desserts",
+                    "Beverages",
+                    "Indian"
+                ],
+                "avgRating": 4.2,
+                "veg": true,
+                "parentId": "392181",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 22:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "52966",
+                "name": "Faasos - Wraps, Rolls & Shawarma",
+                "cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
+                "locality": "Thomas church I C colony no 2",
+                "areaName": "Borivali West",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Kebabs",
+                    "Fast Food",
+                    "Snacks",
+                    "American",
+                    "Healthy Food",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.1,
+                "parentId": "21809",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 34,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "46317",
+                "name": "The J",
+                "cloudinaryImageId": "jvucrugihdk7qsxzqpbd",
+                "locality": "SVP road",
+                "areaName": "Borivali",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "American",
+                    "Snacks",
+                    "Desserts"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "2022",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 18,
+                    "lastMileTravel": 0.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "0.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "24873",
+                "name": "Sandwizzaa",
+                "cloudinaryImageId": "c8b7881c4c04ff816d4e356a106e7132",
+                "locality": "Mahavir Nagar",
+                "areaName": "Kandivali West",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Snacks",
+                    "Fast Food",
+                    "Beverages",
+                    "Jain"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "2484",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 3.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-11 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "390097",
+                "name": "NH1 Bowls - Highway To North",
+                "cloudinaryImageId": "94654fdf308764cd0faf83dba35bcdc3",
+                "locality": "I C Colony",
+                "areaName": "Borivali West",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Punjabi",
+                    "Home Food"
+                ],
+                "avgRating": 4.6,
+                "parentId": "22452",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 17,
+                    "lastMileTravel": 2.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "12-22 mins",
+                    "lastMileTravelString": "2.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 02:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "635223",
+                "name": "Libon The Cake Expert",
+                "cloudinaryImageId": "ef7g0whzt8fzdulemgb7",
+                "locality": "Ah s biotique morarji vevji est chl",
+                "areaName": "Borivali",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Desserts"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "249486",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 12,
+                    "lastMileTravel": 0.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "10-15 mins",
+                    "lastMileTravelString": "0.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 00:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "188977",
+                "name": "Granville IDC Kitchen (Borivali)",
+                "cloudinaryImageId": "cirnsnuy1abgud8ivw4x",
+                "locality": "Opp Kora Kendra Ground",
+                "areaName": "Borivali West",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "South Indian"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "89933",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 1.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "1.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "181363",
+                "name": "Granville Greens",
+                "cloudinaryImageId": "mdhdu94jtcv0wu9gnqc5",
+                "locality": "Borivali West",
+                "areaName": "Borivali",
+                "costForTwo": "₹800 for two",
+                "cuisines": [
+                    "North Indian",
+                    "South Indian",
+                    "Chinese",
+                    "Beverages",
+                    "Italian",
+                    "Mexican",
+                    "Lebanese",
+                    "Thai"
+                ],
+                "avgRating": 4.3,
+                "parentId": "2331",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 1.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 15:40:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "8430",
+                "name": "Rabdi Wala",
+                "cloudinaryImageId": "llojbouuaxwob2oa0wmh",
+                "locality": "Borivali West",
+                "areaName": "Borivali West",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Desserts",
+                    "Gujarati",
+                    "Rajasthani",
+                    "Snacks"
+                ],
+                "avgRating": 4.2,
+                "parentId": "11047",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 1.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "1.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 00:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "617726",
+                "name": "Third Wave Coffee",
+                "cloudinaryImageId": "d96267738c19ec62acb5390e52faba41",
+                "locality": "Roshan Nagar",
+                "areaName": "Borivali",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Cafe",
+                    "Beverages",
+                    "Desserts",
+                    "Fast Food",
+                    "Pizzas"
+                ],
+                "avgRating": 4.4,
+                "parentId": "274773",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 15,
+                    "lastMileTravel": 0.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "0.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 00:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "197385",
+                "name": "The Veg Treat",
+                "cloudinaryImageId": "k2pe725pyodbuuvloj3f",
+                "locality": "Borivali",
+                "areaName": "Borivali West",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Snacks",
+                    "South Indian"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "258101",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 1.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 16:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "224681",
+                "name": "Kathiyawadi Bhog",
+                "cloudinaryImageId": "rah9zx9d87om8moe0uet",
+                "locality": "Borivali",
+                "areaName": "Borivali West",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                    "Indian"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "115686",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 2.5,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "2.5 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 15:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "36929",
+                "name": "Zaika Fun Dining | Club Aquaria",
+                "cloudinaryImageId": "7cfd2f775a377c156fc129c596822825",
+                "locality": "Borivali West",
+                "areaName": "Borivali West",
+                "costForTwo": "₹600 for two",
+                "cuisines": [
+                    "North Indian",
+                    "Chinese",
+                    "Biryani",
+                    "Continental"
+                ],
+                "avgRating": 4.3,
+                "parentId": "454009",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 2.1,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "2.1 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 15:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "35686",
+                "name": "Pangat (Gorai)",
+                "cloudinaryImageId": "ck4sfxaam1m3l9nrthie",
+                "locality": "Gorai Road",
+                "areaName": "Borivali West",
+                "costForTwo": "₹450 for two",
+                "cuisines": [
+                    "Indian",
+                    "Chinese",
+                    "Malwani",
+                    "Seafood",
+                    "Kebabs",
+                    "Biryani",
+                    "Maharashtrian"
+                ],
+                "avgRating": 4.4,
+                "parentId": "154612",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 24,
+                    "lastMileTravel": 2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "2.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 15:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "55580",
+                "name": "Deepak (Borivali)",
+                "cloudinaryImageId": "dgbnrayddvyzf2ujrbej",
+                "locality": "Lt Road",
+                "areaName": "Borivali West",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Indian",
+                    "Chinese",
+                    "South Indian",
+                    "Snacks"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "69499",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 1.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "462916",
+                "name": "Godwa",
+                "cloudinaryImageId": "yznv1gqftmcnosbvpsdg",
+                "locality": "Babhai Naka",
+                "areaName": "Malad Borivali Area",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "American",
+                    "Beverages",
+                    "Thalis"
+                ],
+                "avgRating": 4.5,
+                "veg": true,
+                "parentId": "464699",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 23,
+                    "lastMileTravel": 1.2,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.2 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 22:30:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "42429",
+                "name": "Subway",
+                "cloudinaryImageId": "1ace5fa65eff3e1223feb696c956b38b",
+                "locality": "Borivali West",
+                "areaName": "Borivali West",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Salads",
+                    "Snacks",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.2,
+                "parentId": "2",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                    "deliveryTime": 22,
+                    "lastMileTravel": 0.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "0.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 03:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "52965",
+                "name": "Faasos - Wraps, Rolls & Shawarma",
+                "cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
+                "locality": "Thomas church I C colony no 2",
+                "areaName": "Borivali West",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Kebabs",
+                    "Fast Food",
+                    "Snacks",
+                    "American",
+                    "Healthy Food",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.1,
+                "parentId": "21809",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "63009",
+                "name": "LunchBox - Meals and Thalis",
+                "cloudinaryImageId": "k8ekbqbydsatess0xkan",
+                "locality": "Thomas church I C colony no 2",
+                "areaName": "Borivali West",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Punjabi",
+                    "Healthy Food",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 4.2,
+                "parentId": "4925",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "5K+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "8433",
+                "name": "Smokin' Joe's",
+                "cloudinaryImageId": "lr9psljxndfaqews8yaq",
+                "locality": "IC Colony",
+                "areaName": "Borivali West",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Italian",
+                    "Fast Food",
+                    "Pizzas",
+                    "American",
+                    "Italian-American"
+                ],
+                "avgRating": 4.1,
+                "parentId": "189887",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 2.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "2.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "313654",
+                "name": "Itminaan Matka Biryani - Slow Cooked",
+                "cloudinaryImageId": "e165225d26130103fecf1c40f5dc3669",
+                "locality": "IC Colony",
+                "areaName": "Borivali",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Mughlai"
+                ],
+                "avgRating": 4.4,
+                "parentId": "107673",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 2.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "23-33 mins",
+                    "lastMileTravelString": "2.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 02:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "730760",
+                "name": "Suchali's Artisan Bakehouse",
+                "cloudinaryImageId": "f9f262d0c80a41de4c1a890eb36d1085",
+                "locality": "T G School",
+                "areaName": "Borivali West",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Bakery"
+                ],
+                "avgRating": 4.4,
+                "parentId": "196351",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "50+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "263705",
+                "name": "Pure Veg Meals by Lunchbox",
+                "cloudinaryImageId": "qe1ewe0jtrj1p7eqerbt",
+                "locality": "Thomas church I C colony no 2",
+                "areaName": "Borivali West",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Biryani",
+                    "North Indian",
+                    "Desserts",
+                    "Beverages"
+                ],
+                "avgRating": 3.9,
+                "veg": true,
+                "parentId": "21938",
+                "avgRatingString": "3.9",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 30,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "394194",
+                "name": "The Momo Co.",
+                "cloudinaryImageId": "9668a5819fcba35364dcff30d5f5cfbb",
+                "locality": "I C Colony",
+                "areaName": "Borivali",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Chinese",
+                    "Asian",
+                    "Tibetan",
+                    "Desserts"
+                ],
+                "avgRating": 4.1,
+                "parentId": "11442",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 28,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 02:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "35548",
+                "name": "Sweet Bengal",
+                "cloudinaryImageId": "mjpketxjezvzrhhxxzu6",
+                "locality": "Kandivali West Sector 3",
+                "areaName": "Borivali",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Sweets",
+                    "Indian",
+                    "Snacks",
+                    "Desserts"
+                ],
+                "avgRating": 4.7,
+                "veg": true,
+                "parentId": "1250",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 25,
+                    "lastMileTravel": 4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "4.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 22:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "747604",
+                "name": "Cheesecake & Co.",
+                "cloudinaryImageId": "b318c0b4bc2169550145ace1d6e791a2",
+                "locality": "Samabhav Society",
+                "areaName": "Borivali",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "387417",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "20+",
+                "sla": {
+                    "deliveryTime": 26,
+                    "lastMileTravel": 3.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 00:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "667525",
+                "name": "FreshMenu",
+                "cloudinaryImageId": "6c4de7b481d3614370e5062b2f33e7d6",
+                "locality": "HOLY CROSS ROAD",
+                "areaName": "Borivali",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Continental",
+                    "Chinese",
+                    "Oriental",
+                    "Asian",
+                    "Healthy Food",
+                    "Fast Food",
+                    "Indian",
+                    "Desserts"
+                ],
+                "avgRating": 4.2,
+                "parentId": "398",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "1K+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 2.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "2.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "192254",
+                "name": "McCafe by McDonald's",
+                "cloudinaryImageId": "d7r4cps4hwihurhzh5se",
+                "locality": "Agora Business Plaza",
+                "areaName": "Borivali",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "American",
+                    "Beverages",
+                    "Desserts"
+                ],
+                "avgRating": 4.6,
+                "parentId": "8263",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "50+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 1.6,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "15-20 mins",
+                    "lastMileTravelString": "1.6 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 03:45:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "681229",
+                "name": "GLOBO Ice Creams Of The World",
+                "cloudinaryImageId": "e9fe9e59fea2e0e1175032eff8bd617c",
+                "locality": "IC Colony",
+                "areaName": "Borivali",
+                "costForTwo": "₹150 for two",
+                "cuisines": [
+                    "Ice Cream",
+                    "Desserts",
+                    "Bakery"
+                ],
+                "avgRating": 4.5,
+                "parentId": "22303",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "20+",
+                "sla": {
+                    "deliveryTime": 13,
+                    "lastMileTravel": 2.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "8-18 mins",
+                    "lastMileTravelString": "2.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 02:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "628732",
+                "name": "New York Waffles & Dinges",
+                "cloudinaryImageId": "x7kaddrorytmnfg7eh22",
+                "locality": "Borivali West",
+                "areaName": "Borivali",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Waffle",
+                    "Bakery",
+                    "Desserts",
+                    "Beverages",
+                    "Ice Cream"
+                ],
+                "avgRating": 3.7,
+                "veg": true,
+                "parentId": "148410",
+                "avgRatingString": "3.7",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 21,
+                    "lastMileTravel": 1.4,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "20-25 mins",
+                    "lastMileTravelString": "1.4 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 07:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "667526",
+                "name": "Green Cravings",
+                "cloudinaryImageId": "b05cf68db0eb180dc75cb5acb528e6ca",
+                "locality": "HOLY CROSS ROAD",
+                "areaName": "Borivali",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                    "Healthy Food",
+                    "Fast Food",
+                    "Grill"
+                ],
+                "avgRating": 4.3,
+                "parentId": "8660",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 2.9,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "2.9 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:59:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "692097",
+                "name": "BOOM Sandwich - Sub of India",
+                "cloudinaryImageId": "96aaf72372ad1b0297b7cc304ced7e33",
+                "locality": "Borivali West",
+                "areaName": "I C Colony, Dahisar",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Snacks",
+                    "Indian",
+                    "Desserts"
+                ],
+                "avgRating": 4.1,
+                "parentId": "401169",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "50+",
+                "sla": {
+                    "deliveryTime": 19,
+                    "lastMileTravel": 2.7,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "14-24 mins",
+                    "lastMileTravelString": "2.7 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-13 02:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "381741",
+                "name": "Chai Sutta Bar",
+                "cloudinaryImageId": "fwa1rtvawlybaswdpvrd",
+                "locality": "Kandivali West",
+                "areaName": "Kandivali West",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                    "Beverages",
+                    "Snacks"
+                ],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "14909",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 35,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:55:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "497450",
+                "name": "The Dessert Heaven - Pure Veg",
+                "cloudinaryImageId": "047df62033f2e06f4643284064bf2817",
+                "locality": "GOLDERS GREEN BLDG",
+                "areaName": "BORIVALI",
+                "costForTwo": "₹200 for two",
+                "cuisines": [
+                    "Bakery",
+                    "Desserts",
+                    "Sweets",
+                    "Ice Cream"
+                ],
+                "avgRating": 4.3,
+                "veg": true,
+                "parentId": "350292",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "100+",
+                "sla": {
+                    "deliveryTime": 29,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "25-30 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:00:00",
+                    "opened": true
+                }
+            }
+        },
+        {
+            "info": {
+                "id": "766624",
+                "name": "Burger Hub",
+                "cloudinaryImageId": "1ee43c51aca0582a1e951d722bbae644",
+                "locality": "Satya Nagar",
+                "areaName": "Borivali",
+                "costForTwo": "₹400 for two",
+                "cuisines": [
+                    "Burgers",
+                    "Snacks",
+                    "Chinese"
+                ],
+                "veg": true,
+                "parentId": "21787",
+                "avgRatingString": "NEW",
+                "sla": {
+                    "deliveryTime": 31,
+                    "lastMileTravel": 3,
+                    "serviceability": "SERVICEABLE",
+                    "slaString": "30-35 mins",
+                    "lastMileTravelString": "3.0 km",
+                    "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                    "nextCloseTime": "2024-01-12 23:45:00",
+                    "opened": true
+                }
+            }
+        }
+    ]
+}

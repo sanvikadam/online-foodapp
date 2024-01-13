@@ -1,0 +1,90 @@
+
+.body {
+  font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.logo-container img {
+  margin: 10px 0;
+  width: 80px;
+  height: 80px;
+}
+
+.header, .filterContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 30px;
+}
+
+.filterContainer {margin: 30px}
+
+.navbar-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.restaurant-container .card {
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+  min-height: 500px;
+}
+
+.card-body {min-height: 260px;}
+
+.card-body .card-title {font-size: 1.1rem}
+
+.btn-wrapper button{margin: 0 10px;}
+
+.img-container {
+  width: 286px;
+  height: 300px;
+}
+
+.img-container img {width: 100%; height: 100%;}
+
+.rating-icon {
+  background: url("./assets/images/star.png") no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-flex;
+  margin: 0 10px 0 0;
+}
+
+.res-location {min-height: 40px;}
+
+.rating-container {
+  font-size: 16px;
+  font-weight: 500;
+  vertical-align: middle;
+}
+
+.rating-container .period-span {
+  font-size: 18px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: text-bottom;
+  margin: 0 5px;
+}
+
+.showing-result-container {
+  display: flex;
+  justify-content: flex-end;
+  margin: 30px 40px 10px;
+}
+
+
+
+
