@@ -5,7 +5,6 @@ import Card from 'react-bootstrap/Card';
 
 const RestaurantCard = (props) => {
     const {restData} = props;
-    console.log(props);
     const {id, cloudinaryImageId, name, costForTwo, avgRatingString, locality, sla} = restData.info;
     
   return (
@@ -18,9 +17,11 @@ const RestaurantCard = (props) => {
         <Card.Text>
           {costForTwo}
         </Card.Text>
-        <Card.Text class="rating-container"><span className="rating-icon"></span>{avgRatingString}<span className="period-span"> . </span>{sla.slaString}</Card.Text>
+        <Card.Text className="rating-container"><span className="rating-icon"></span>{avgRatingString}<span className="period-span"> . </span>{sla.slaString}</Card.Text>
         <Card.Text className="res-location">{locality}</Card.Text>
-        <Button variant="info">Go somewhere</Button>
+        <Button variant="info">Show More</Button>
+        <p>{props.children}</p>
+        {/* <Button variant="info" onClick={()=> props.onGreet("Sanvi")}>Click here</Button> */}
       </Card.Body>
     </Card>
   )
