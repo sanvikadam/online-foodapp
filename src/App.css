@@ -79,12 +79,36 @@
   margin: 0 5px;
 }
 
-.showing-result-container {
-  display: flex;
+.showing-result-container,
+.skeleton-container {
+  display: flex !important;
   justify-content: flex-end;
   margin: 30px 40px 10px;
 }
 
+.restListCount-skeleton {
+  float: right;
+  width: 150px !important;
+}
+
+.card-skeleton {
+  display: inline-block;
+}
+
+.btn.btn-basic {
+  background-color: rgb(240, 240, 245);
+  border: 1px solid rgb(54, 57, 62);
+  border-radius: 18px;
+}
+
+.filterContainer .form-check {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.filterContainer .form-check .form-check-input[type=radio] {
+  border: 1px solid rgb(54, 57, 62);
+}
 
 
 

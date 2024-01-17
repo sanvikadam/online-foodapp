@@ -1,10 +1,10 @@
 import React from 'react'
+import Skeleton from 'react-loading-skeleton';
 
 const RestaurantListCount = (props) => {
     const {restCount, filterRestCount} = props;
-    console.log(restCount+ "" +filterRestCount);
   return (
-    <div class="showing-result-container">
+    <div className="showing-result-container">
       <p>showing {filterRestCount} of {restCount}</p>
     </div>
   )

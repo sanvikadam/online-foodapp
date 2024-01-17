@@ -1,15 +1,16 @@
 import React, { useState } from 'react'
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import InputGroup from 'react-bootstrap/InputGroup';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-const Search = () => {
+const Search = (props) => {
+  const searchRestaurant = props.searchRestaurant;
+  
   const [searchText, setSearchText]=useState();
   return (
     <div>
-      <Form inline>
+      <Form>
         <Row>
           <Col xs="auto">
             <Form.Control
@@ -17,14 +18,11 @@ const Search = () => {
               placeholder="Search"
               className=" mr-sm-2"
               value={searchText}
-              onChange={(e)=> {
-                setSearchText(e.target.value)
-                console.log(searchText)
-              }}
+              onChange={searchRestaurant}
             />
           </Col>
           <Col xs="auto">
-            <Button type="submit">Submit</Button>
+            <Button type="button" onClick={searchRestaurant}>Submit</Button>
           </Col>
         </Row>
         </Form>
